@@ -1,0 +1,212 @@
+
+.wrapper20{
+	
+	margin-left:20px;
+}
+body{
+	
+background-image: url("../Images/swirl_pattern.png");
+background-repeat: repeat;
+padding:0;
+margin:0%;
+
+
+
+}
+
+#logo{
+
+display: block;
+margin-left:20px;
+
+}
+
+#firstheader{
+	font-family: "Helvetica";
+	margin:20px;
+	text-align:center;
+}
+
+.blocktext p{
+	opacity:0.7;
+	 -webkit-transition: opacity 0.7s,filter 0.7s, color 0.7; 
+    transition: opacity 0.7s,filter 0.7s,color 0.7s;
+	width:300px;
+	height:300px;
+	text-align:center;
+	font-size:50px;
+	margin-top:10px;
+	font-family:"Times New Roman";
+	color:black;
+	
+	
+	
+}
+
+.blocktext p:hover{
+opacity:1;
+   
+    filter: alpha(opacity=50);
+	color:#0080ff;
+
+}
+.blocktext a:link, a:visited {
+    color:black; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+#content1{
+
+	display:block;
+	overflow:hidden;
+	padding-bottom:5%;
+
+width:700px;
+margin:0 auto;
+
+
+	
+}
+#content2{
+
+	display:block;
+	overflow:hidden;
+	
+	width:700px;
+margin:0 auto;
+ 
+	
+	
+}
+
+#block1{
+	
+	display:block;
+	width: 300px;
+	height:300px;
+	border: 1px solid black;
+	float:left;
+	
+	margin-right: 10%;
+	background-image:url("../Images/avatar1.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	
+	
+	
+	
+			
+}
+
+
+
+#block2{
+	
+	display:block;
+	width: 300px;
+	height:300px;
+	border: 1px solid black;
+	overflow:hidden;
+	
+		background-image:url("../Images/callender1.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-color:white;
+		
+}
+
+#block3{
+	
+	display:block;
+	width: 300px;
+	height:300px;
+	border: 1px solid black;
+	overflow:hidden;
+	float:left;
+	margin-right:10%;
+	background-image:url("../Images/rules1.png");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: 200px 200px;
+	background-color:white;
+	
+}
+
+#block4{
+	
+	display:block;
+	width: 300px;
+	height:300px;
+	border: 1px solid black;
+	overflow:hidden;
+	background-image:url("../Images/xmark.jpeg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: 200px 200px;
+	background-color:white;
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/*---------------------Report page----------------------*/
+
+#comments{
+	
+	width:300px;
+	height:80px;
+	
+}
+
+/*---------------------profile page----------------------*/
+
+
+#profilePic{
+	
+	width:200px;
+	height:200px;
+	text-align: center;
+	border: 5px black solid;
+	
+	background-image: url("../Images/avatar1.jpg");
+	background-position: center;
+	float:left;
+	margin-left:20px;
+	margin-bottom:67px;
+}	
+
+#profileData p{
+	
+	margin-left:250px;
+	font-size:30px;
+	
+	margin-right:700px;
+	
+	
+}
+/*--------------GuideLines---------------*/
+
+
+#par1{
+	padding-left:10px;
+	margin-left:20px;
+	margin-right:168px;
+	background-color: white;
+	border: 2px solid black;
+	margin-bottom:0%;
+	font-size:25px;
+	background-image:url("../Images/NewYear.png");
+	text-align:center;
+	
+	
+}
+#par1 li{list-style:none;}
+
+/*--------------Routes------------------*/
+
